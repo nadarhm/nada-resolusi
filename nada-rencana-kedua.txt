@@ -4,6 +4,7 @@ RENCANA KEDUA NADA
   * di bagian IT
   * semua bagian
     ^ admin
+    ^ barista
 - hiking
 - fokus kuliah
 - terus belajar sampe ngerti
